@@ -1,0 +1,317 @@
+[
+  {
+    "filename": "ANDAMAN-NICOBAR_parliament.geojson",
+    "state": "ANDAMAN & NICOBAR",
+    "category": "parliament",
+    "url": "https://www.dropbox.com/scl/fi/b71kl9nt21zl8utkkp3pk/ANDAMAN-NICOBAR_parliament.geojson?rlkey=3vzp4attdudx6dt6y7f8jolvs&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "ANDHRA-PRADESH_ASSEMBLY.geojson",
+    "state": "ANDHRA PRADESH",
+    "category": "assembly",
+    "url": "https://www.dropbox.com/scl/fi/fwolx39ctuonc79nvqwa8/ANDHRA-PRADESH_ASSEMBLY.geojson?rlkey=6nbfjw72bs8lwh3rca2v3flvd&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "ANDHRA-PRADESH_parliament.geojson",
+    "state": "ANDHRA PRADESH",
+    "category": "parliament",
+    "url": "https://www.dropbox.com/scl/fi/jb0u286ob3xanwe2aa1m8/ANDHRA-PRADESH_parliament.geojson?rlkey=y21qzngy02cmh1fojzcuaz69b&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "ARUNACHAL-PRADESH_ASSEMBLY.geojson",
+    "state": "ARUNACHAL PRADESH",
+    "category": "assembly",
+    "url": "https://www.dropbox.com/scl/fi/badbtd7pbnrpdgptga1zu/ARUNACHAL-PRADESH_ASSEMBLY.geojson?rlkey=z4lfx6lc4yjc6htvln2ziyy2o&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "ARUNACHAL-PRADESH_parliament.geojson",
+    "state": "ARUNACHAL PRADESH",
+    "category": "parliament",
+    "url": "https://www.dropbox.com/scl/fi/hlppoqosc85nfso9vrj4a/ARUNACHAL-PRADESH_parliament.geojson?rlkey=pe5ac67nm5z6d9wf1ij0rmud9&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "ASSAM_ASSEMBLY.geojson",
+    "state": "ASSAM",
+    "category": "assembly",
+    "url": "https://www.dropbox.com/scl/fi/gsiysqankajoi1orj2msr/ASSAM_ASSEMBLY.geojson?rlkey=iuulnivuufv8wrc2oh8m3iqeq&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "ASSAM_parliament.geojson",
+    "state": "ASSAM",
+    "category": "parliament",
+    "url": "https://www.dropbox.com/scl/fi/3fs4glxxvxnjvx43xggur/ASSAM_parliament.geojson?rlkey=9k498p7do8sj0aptjq09y1ych&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "CHANDIGARH_parliament.geojson",
+    "state": "CHANDIGARH",
+    "category": "parliament",
+    "url": "https://www.dropbox.com/scl/fi/w5088i2gjrwa8cr1two4h/CHANDIGARH_parliament.geojson?rlkey=7mh8xuk0lecl707u1rvcax1j3&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "DADRA-NAGAR-HAVELI_parliament.geojson",
+    "state": "DADRA & NAGAR HAVELI",
+    "category": "parliament",
+    "url": "https://www.dropbox.com/scl/fi/gsrcmh1mm1z680k7qoux5/DADRA-NAGAR-HAVELI_parliament.geojson?rlkey=65q8snrz29bai4t2qss5h6ucm&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "DAMAN-DIU_parliament.geojson",
+    "state": "DAMAN & DIU",
+    "category": "parliament",
+    "url": "https://www.dropbox.com/scl/fi/f2494pniaxv8vzubgor9o/DAMAN-DIU_parliament.geojson?rlkey=9xlq14rnxjvp0n4wzc5x4ykgg&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "DELHI_ASSEMBLY.geojson",
+    "state": "DELHI",
+    "category": "assembly",
+    "url": "https://www.dropbox.com/scl/fi/y30jf0o8nsvqchizxuabw/DELHI_ASSEMBLY.geojson?rlkey=4c48pi8se77a1n2lhq7s7fe11&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "DELHI_parliament.geojson",
+    "state": "DELHI",
+    "category": "parliament",
+    "url": "https://www.dropbox.com/scl/fi/2malr0lutw95t6qsrs9fb/DELHI_parliament.geojson?rlkey=nmr1s41446of5m7c7r5ul59ue&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "GOA_ASSEMBLY.geojson",
+    "state": "GOA",
+    "category": "assembly",
+    "url": "https://www.dropbox.com/scl/fi/dcibjfrxgvxsjhydo81xx/GOA_ASSEMBLY.geojson?rlkey=hufwchaak3isftp8rff5cqtsc&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "GOA_parliament.geojson",
+    "state": "GOA",
+    "category": "parliament",
+    "url": "https://www.dropbox.com/scl/fi/7a2x1s2ntfi7dy5z7o8t4/GOA_parliament.geojson?rlkey=x9nby7mbd2116rzm0gpbtr86z&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "GUJARAT_ASSEMBLY.geojson",
+    "state": "GUJARAT",
+    "category": "assembly",
+    "url": "https://www.dropbox.com/scl/fi/1ulczhbeklp3d4ctaymy6/GUJARAT_ASSEMBLY.geojson?rlkey=duwvriv5w4jwcxrlj4he2nv6w&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "GUJARAT_parliament.geojson",
+    "state": "GUJARAT",
+    "category": "parliament",
+    "url": "https://www.dropbox.com/scl/fi/69t2pfn5q6gq37i5eja88/GUJARAT_parliament.geojson?rlkey=yfj9uwd5r6t1kxa4z4z46d3fk&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "HARYANA_ASSEMBLY.geojson",
+    "state": "HARYANA",
+    "category": "assembly",
+    "url": "https://www.dropbox.com/scl/fi/1g3xm5mqh7yt1b6k0x3lr/HARYANA_ASSEMBLY.geojson?rlkey=volmomk8m4qvgjsy8mlzy8yf8&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "HARYANA_parliament.geojson",
+    "state": "HARYANA",
+    "category": "parliament",
+    "url": "https://www.dropbox.com/scl/fi/7pj1whnrntqvfig3x9zko/HARYANA_parliament.geojson?rlkey=hz5ibt8aws0rvrf56r0p8i7td&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "INDIAN_SUB_DISTRICTS.geojson",
+    "state": "ALL",
+    "category": "districts",
+    "url": "https://www.dropbox.com/scl/fi/whb9f1563ux6wrr0jspgy/INDIAN_SUB_DISTRICTS.geojson?rlkey=ffy5grqjmxs2zlxlk7l6mlie8&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "INDIA_DISTRICTS.geojson",
+    "state": "ALL",
+    "category": "districts",
+    "url": "https://www.dropbox.com/scl/fi/d43f7lqhmc2u44g0rqd3f/INDIA_DISTRICTS.geojson?rlkey=kbbg408xqo45wf8s719klk6ov&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "INDIA_STATES.geojson",
+    "state": "ALL",
+    "category": "states",
+    "url": "https://www.dropbox.com/scl/fi/pxddamkvrc6hjlqfc55by/INDIA_STATES.geojson?rlkey=rhbenfir72h7vrqk1v7hkuc81&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "JAMMU-KASHMIR_ASSEMBLY.geojson",
+    "state": "JAMMU & KASHMIR",
+    "category": "assembly",
+    "url": "https://www.dropbox.com/scl/fi/h481ku076fs4jovve1j8m/JAMMU-KASHMIR_ASSEMBLY.geojson?rlkey=ja1iexx43o202bauwkkupwsp7&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "JAMMU-KASHMIR_parliament.geojson",
+    "state": "JAMMU & KASHMIR",
+    "category": "parliament",
+    "url": "https://www.dropbox.com/scl/fi/9h0nl58n3wpgwviuvafbw/JAMMU-KASHMIR_parliament.geojson?rlkey=8w8dcbg5vbwgzcnkwu11bmcoy&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "JHARKHAND_ASSEMBLY.geojson",
+    "state": "JHARKHAND",
+    "category": "assembly",
+    "url": "https://www.dropbox.com/scl/fi/wqp89mudsdtfxi5zmb0st/JHARKHAND_ASSEMBLY.geojson?rlkey=9ajhgrxex5j5a88q9xjm8y0ag&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "JHARKHAND_parliament.geojson",
+    "state": "JHARKHAND",
+    "category": "parliament",
+    "url": "https://www.dropbox.com/scl/fi/q1kvyz7qmb4dyqg0yyenj/JHARKHAND_parliament.geojson?rlkey=8ydy0cl5383hdgm0yzrwoxk2f&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "LAKSHADWEEP_parliament.geojson",
+    "state": "LAKSHADWEEP",
+    "category": "parliament",
+    "url": "https://www.dropbox.com/scl/fi/x5o65hliilxocqoliqfmx/LAKSHADWEEP_parliament.geojson?rlkey=9dsp1xr79a0ygul23ly44snsu&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "MADHYA-PRADESH_parliament.geojson",
+    "state": "MADHYA PRADESH",
+    "category": "parliament",
+    "url": "https://www.dropbox.com/scl/fi/l1eedzacvqy4foz352cyf/MADHYA-PRADESH_parliament.geojson?rlkey=vc3yxu5tnv9jnhzamhzgwlt8l&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "MANIPUR_ASSEMBLY.geojson",
+    "state": "MANIPUR",
+    "category": "assembly",
+    "url": "https://www.dropbox.com/scl/fi/xjh85rfqyx0h8qdip7pud/MANIPUR_ASSEMBLY.geojson?rlkey=whm9cgltcsuic6krdvic6dufi&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "MANIPUR_parliament.geojson",
+    "state": "MANIPUR",
+    "category": "parliament",
+    "url": "https://www.dropbox.com/scl/fi/6u5yr105xmr7ixcor05in/MANIPUR_parliament.geojson?rlkey=jxzm5xix29ocdw8gumo6qun5e&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "MEGHALAYA_ASSEMBLY.geojson",
+    "state": "MEGHALAYA",
+    "category": "assembly",
+    "url": "https://www.dropbox.com/scl/fi/72yfj2gkm4pbeiui7u67l/MEGHALAYA_ASSEMBLY.geojson?rlkey=vaazz9clc645bgadk7sr12qvn&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "MEGHALAYA_parliament.geojson",
+    "state": "MEGHALAYA",
+    "category": "parliament",
+    "url": "https://www.dropbox.com/scl/fi/tsxn9eer1xcyy35qs6kwr/MEGHALAYA_parliament.geojson?rlkey=q9vytw6n3en48134rdn6toxn2&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "MIZORAM_ASSEMBLY.geojson",
+    "state": "MIZORAM",
+    "category": "assembly",
+    "url": "https://www.dropbox.com/scl/fi/e0g1hr19g733jm9v6hktl/MIZORAM_ASSEMBLY.geojson?rlkey=zquj0x4mf430hrm14ec6vqr4v&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "MIZORAM_parliament.geojson",
+    "state": "MIZORAM",
+    "category": "parliament",
+    "url": "https://www.dropbox.com/scl/fi/ob8te24v2bcuas77z86vp/MIZORAM_parliament.geojson?rlkey=1cfvj5q2a1bdh1s5dgdftig91&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "NAGALAND_ASSEMBLY.geojson",
+    "state": "NAGALAND",
+    "category": "assembly",
+    "url": "https://www.dropbox.com/scl/fi/xj7ao4ywg0v5etwgmiohy/NAGALAND_ASSEMBLY.geojson?rlkey=3kceu601cqrcqetayadgj0hxk&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "NAGALAND_parliament.geojson",
+    "state": "NAGALAND",
+    "category": "parliament",
+    "url": "https://www.dropbox.com/scl/fi/cb0vlm7i3vpfvrqr4387t/NAGALAND_parliament.geojson?rlkey=gq09x51ekvs86uzlwc88pjooi&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "PUDUCHERRY_ASSEMBLY.geojson",
+    "state": "PUDUCHERRY",
+    "category": "assembly",
+    "url": "https://www.dropbox.com/scl/fi/m5r9qxmbwycon648kect4/PUDUCHERRY_ASSEMBLY.geojson?rlkey=leaefueu7x70o3ltnbhdhmf3k&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "PUDUCHERRY_parliament.geojson",
+    "state": "PUDUCHERRY",
+    "category": "parliament",
+    "url": "https://www.dropbox.com/scl/fi/4z39rfhk8rjoaerd6atuc/PUDUCHERRY_parliament.geojson?rlkey=pvu5hgpb0ryawu5ubdzeonn5y&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "SIKKIM_ASSEMBLY.geojson",
+    "state": "SIKKIM",
+    "category": "assembly",
+    "url": "https://www.dropbox.com/scl/fi/021dtm0f6k3sv8d90mtga/SIKKIM_ASSEMBLY.geojson?rlkey=sf9zeax7uhfvq6uzomaq1de95&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "TAMIL-NADU_ASSEMBLY.geojson",
+    "state": "TAMIL NADU",
+    "category": "assembly",
+    "url": "https://www.dropbox.com/scl/fi/n24svle0x7i9kedcx3x69/TAMIL-NADU_ASSEMBLY.geojson?rlkey=c3mshy7e2kpaaybrm0sa5nn8n&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "TAMIL-NADU_parliament.geojson",
+    "state": "TAMIL NADU",
+    "category": "parliament",
+    "url": "https://www.dropbox.com/scl/fi/fesmd800li13fhpe4lkvp/TAMIL-NADU_parliament.geojson?rlkey=9d719x082srir0mv992j7jn9h&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "telangana_ac.json",
+    "state": "TELANGANA",
+    "category": "ac",
+    "url": "https://www.dropbox.com/scl/fi/20j87c2vlc3kfcesd1i6i/telangana_ac.json?rlkey=9ezhldc9mazq62ljvair1sp7a&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "TRIPURA_ASSEMBLY.geojson",
+    "state": "TRIPURA",
+    "category": "assembly",
+    "url": "https://www.dropbox.com/scl/fi/orb5jjeum8o281dcursr9/TRIPURA_ASSEMBLY.geojson?rlkey=fvyvt17osd2reaxrqanx90d6c&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "TRIPURA_parliament.geojson",
+    "state": "TRIPURA",
+    "category": "parliament",
+    "url": "https://www.dropbox.com/scl/fi/50bzigd8vn4t0s6qo8onf/TRIPURA_parliament.geojson?rlkey=l7xtye33fto0ag11ht32tnuyb&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "TS_Mandals.json",
+    "state": "TS",
+    "category": "mandals",
+    "url": "https://www.dropbox.com/scl/fi/jwwld46qcyo33v6xj85ei/TS_Mandals.json?rlkey=nwnqj33siu6ngqarou661ese5&dl=1",
+    "version": "v1"
+  },
+  {
+    "filename": "Ts_Dis.json",
+    "state": "TS",
+    "category": "dis",
+    "url": "https://www.dropbox.com/scl/fi/g17hlm9xqe6k4ig4zez5v/Ts_Dis.json?rlkey=l44eoibwuw9ohsrrlx49u87lg&dl=1",
+    "version": "v1"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "capacitor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/android": "^7.0.1",
+    "@capacitor/app": "^7.0.0",
+    "@capacitor/cli": "^7.0.1",
+    "@capacitor/core": "^7.0.1",
+    "@capacitor/filesystem": "^7.0.1",
+    "@capacitor/geolocation": "^7.1.2",
+    "@capacitor/network": "^7.0.0",
+    "@capacitor/preferences": "^7.0.1",
+    "@capacitor/share": "^7.0.0"
+  },
+  "keywords": [],
+  "description": ""
+}

@@ -1,0 +1,21 @@
+{
+  "appId": "com.scaleorange.maps",
+  "appName": "Where am I",
+  "webDir": "./custom_maps/build",
+    "plugins": {
+      "Geolocation": {
+        "iOSUseExactLocation": true,
+        "androidUseExactLocation": true
+      },
+      "Share": {
+        "preferredAppsDisplayList": [
+          "com.google.android.apps.maps",
+          "com.apple.map",
+          "com.google.maps"
+        ]
+      }
+    },
+  "server": {
+    "androidScheme": "https"
+  }
+}
