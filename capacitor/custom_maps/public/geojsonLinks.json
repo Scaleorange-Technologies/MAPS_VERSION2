@@ -1,13 +1,13 @@
 {
   "INDIA": {
     "INDIA_STATES": {
-      "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIA_STATES.geojson": "v1.0"
+      "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIA_STATES.geojson": "v2.0"
     },
     "INDIA_DISTRICTS": {
       "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIA_DISTRICTS.geojson": "v1.0"
     },
     "INDIAN_SUB_DISTRICTS": {
-      "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIAN_SUB_DISTRICTS.geojson": "v1.0"
+      "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIAN_SUB_DISTRICTS.geojson": "v2.0"
     },
     "INDIAN_RAILWAYS": {
       "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIAN_RAILWAYS.geojson": "v1.0"
