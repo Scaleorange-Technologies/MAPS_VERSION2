@@ -1,349 +1,1078 @@
 {
-  "INDIA": {
-    "INDIA_STATES": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIA_STATES.geojson",
-    "INDIA_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIA_DISTRICTS.geojson",
-    "INDIAN_SUB_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIAN_SUB_DISTRICTS.geojson",
-    "INDIAN_RAILWAYS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIAN_RAILWAYS.geojson",
-    "INDIA_ENERGY_PLANTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIA_ENERGY_PLANTS.geojson",
-    "INDIA_NATIONAL_HIGHWAY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIA_NATIONAL_HIGHWAY.geojson",
-    "INDIA_POLICE_STATIONS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIA_POLICE_STATIONS.geojson",
-    "INDIAN_RIVERS":"https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/Indian_Rivers.geojson"
+  "INDIA_INDIA_STATES": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIA_STATES.geojson",
+    "version": "v1.0"
   },
-  "STATES": {
-    "ANDAMAN & NICOBAR": {
-      "ANDAMAN & NICOBAR DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDAMAN & NICOBAR/ANDAMAN & NICOBAR District Hq.geojson",
-      "ANDAMAN & NICOBAR SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDAMAN & NICOBAR/ANDAMAN & NICOBAR Sub District Hq.geojson",
-      "ANDAMAN & NICOBAR_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDAMAN & NICOBAR/ANDAMAN & NICOBAR_DISTRICTS.geojson",
-      "ANDAMAN & NICOBAR_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDAMAN & NICOBAR/ANDAMAN & NICOBAR_STATE.geojson",
-      "ANDAMAN & NICOBAR_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDAMAN & NICOBAR/ANDAMAN & NICOBAR_SUBDISTRICTS.geojson",
-      "ANDAMAN & NICOBAR_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDAMAN & NICOBAR/ANDAMAN & NICOBAR_parliament.geojson"
-    },
-    "ANDHRA PRADESH": {
-      "ANDHRA PRADESH DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDHRA PRADESH/ANDHRA PRADESH District Hq.geojson",
-      "ANDHRA PRADESH SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDHRA PRADESH/ANDHRA PRADESH Sub District Hq.geojson",
-      "ANDHRA PRADESH_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDHRA PRADESH/ANDHRA PRADESH_ASSEMBLY.geojson",
-      "ANDHRA PRADESH_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDHRA PRADESH/ANDHRA PRADESH_DISTRICTS.geojson",
-      "ANDHRA PRADESH_NEW_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDHRA PRADESH/ANDHRA PRADESH_NEW_DISTRICTS.geojson",
-      "ANDHRA PRADESH_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDHRA PRADESH/ANDHRA PRADESH_STATE.geojson",
-      "ANDHRA PRADESH_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDHRA PRADESH/ANDHRA PRADESH_SUBDISTRICTS.geojson",
-      "ANDHRA PRADESH_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDHRA PRADESH/ANDHRA PRADESH_parliament.geojson"
-    },
-    "ARUNACHAL PRADESH": {
-      "ARUNACHAL PRADESH DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ARUNACHAL PRADESH/ARUNACHAL PRADESH District Hq.geojson",
-      "ARUNACHAL PRADESH SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ARUNACHAL PRADESH/ARUNACHAL PRADESH Sub District Hq.geojson",
-      "ARUNACHAL PRADESH_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ARUNACHAL PRADESH/ARUNACHAL PRADESH_ASSEMBLY.geojson",
-      "ARUNACHAL PRADESH_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ARUNACHAL PRADESH/ARUNACHAL PRADESH_DISTRICTS.geojson",
-      "ARUNACHAL PRADESH_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ARUNACHAL PRADESH/ARUNACHAL PRADESH_STATE.geojson",
-      "ARUNACHAL PRADESH_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ARUNACHAL PRADESH/ARUNACHAL PRADESH_SUBDISTRICTS.geojson",
-      "ARUNACHAL PRADESH_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ARUNACHAL PRADESH/ARUNACHAL PRADESH_parliament.geojson"
-    },
-    "ASSAM": {
-      "ASSAM DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ASSAM/ASSAM District Hq.geojson",
-      "ASSAM SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ASSAM/ASSAM Sub District Hq.geojson",
-      "ASSAM_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ASSAM/ASSAM_ASSEMBLY.geojson",
-      "ASSAM_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ASSAM/ASSAM_DISTRICTS.geojson",
-      "ASSAM_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ASSAM/ASSAM_STATE.geojson",
-      "ASSAM_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ASSAM/ASSAM_SUBDISTRICTS.geojson",
-      "ASSAM_VILLAGES": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ASSAM/ASSAM_VILLAGES.geojson",
-      "ASSAM_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ASSAM/ASSAM_parliament.geojson"
-    },
-    "BIHAR": {
-      "BIHAR DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/BIHAR/BIHAR District Hq.geojson",
-      "BIHAR SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/BIHAR/BIHAR Sub District Hq.geojson",
-      "BIHAR_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/BIHAR/BIHAR_ASSEMBLY.geojson",
-      "BIHAR_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/BIHAR/BIHAR_DISTRICTS.geojson",
-      "BIHAR_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/BIHAR/BIHAR_STATE.geojson",
-      "BIHAR_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/BIHAR/BIHAR_SUBDISTRICTS.geojson",
-      "BIHAR_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/BIHAR/BIHAR_parliament.geojson"
-    },
-    "CHANDIGARH": {
-      "CHANDIGARH DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/CHANDIGARH/CHANDIGARH District Hq.geojson",
-      "CHANDIGARH SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/CHANDIGARH/CHANDIGARH Sub District Hq.geojson",
-      "CHANDIGARH_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/CHANDIGARH/CHANDIGARH_DISTRICTS.geojson",
-      "CHANDIGARH_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/CHANDIGARH/CHANDIGARH_STATE.geojson",
-      "CHANDIGARH_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/CHANDIGARH/CHANDIGARH_SUBDISTRICTS.geojson",
-      "CHANDIGARH_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/CHANDIGARH/CHANDIGARH_parliament.geojson"
-    },
-    "CHHATTISGARH": {
-      "CHATTISGARH_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/CHHATTISGARH/CHATTISGARH_SUBDISTRICTS.geojson",
-      "CHHATTISGARH DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/CHHATTISGARH/CHHATTISGARH District Hq.geojson",
-      "CHHATTISGARH SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/CHHATTISGARH/CHHATTISGARH Sub District Hq.geojson",
-      "CHHATTISGARH_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/CHHATTISGARH/CHHATTISGARH_ASSEMBLY.geojson",
-      "CHHATTISGARH_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/CHHATTISGARH/CHHATTISGARH_DISTRICTS.geojson",
-      "CHHATTISGARH_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/CHHATTISGARH/CHHATTISGARH_STATE.geojson",
-      "CHHATTISGARH_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/CHHATTISGARH/CHHATTISGARH_parliament.geojson"
-    },
-    "DADRA & NAGAR HAVELI": {
-      "DADAR & NAGAR HAVELI_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DADRA & NAGAR HAVELI/DADAR & NAGAR HAVELI_SUBDISTRICTS.geojson",
-      "DADRA & NAGAR HAVE DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DADRA & NAGAR HAVELI/DADRA & NAGAR HAVE District Hq.geojson",
-      "DADRA & NAGAR HAVE SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DADRA & NAGAR HAVELI/DADRA & NAGAR HAVE Sub District Hq.geojson",
-      "DADRA & NAGAR HAVELI_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DADRA & NAGAR HAVELI/DADRA & NAGAR HAVELI_STATE.geojson",
-      "DADRA & NAGAR HAVELI_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DADRA & NAGAR HAVELI/DADRA & NAGAR HAVELI_parliament.geojson",
-      "DADRA & NAGAR HAVE_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DADRA & NAGAR HAVELI/DADRA & NAGAR HAVE_DISTRICTS.geojson"
-    },
-    "DAMAN & DIU": {
-      "DAMAN & DIU DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DAMAN & DIU/DAMAN & DIU District Hq.geojson",
-      "DAMAN & DIU SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DAMAN & DIU/DAMAN & DIU Sub District Hq.geojson",
-      "DAMAN & DIU_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DAMAN & DIU/DAMAN & DIU_DISTRICTS.geojson",
-      "DAMAN & DIU_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DAMAN & DIU/DAMAN & DIU_STATE.geojson",
-      "DAMAN & DIU_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DAMAN & DIU/DAMAN & DIU_SUBDISTRICTS.geojson",
-      "DAMAN & DIU_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DAMAN & DIU/DAMAN & DIU_parliament.geojson"
-    },
-    "DELHI": {
-      "DELHI DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DELHI/DELHI District Hq.geojson",
-      "DELHI SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DELHI/DELHI Sub District Hq.geojson",
-      "DELHI_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DELHI/DELHI_ASSEMBLY.geojson",
-      "DELHI_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DELHI/DELHI_DISTRICTS.geojson",
-      "DELHI_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DELHI/DELHI_STATE.geojson",
-      "DELHI_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DELHI/DELHI_SUBDISTRICTS.geojson",
-      "DELHI_VILLAGES": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DELHI/DELHI_VILLAGES.geojson",
-      "DELHI_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DELHI/DELHI_parliament.geojson"
-    },
-    "GOA": {
-      "GOA DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GOA/GOA District Hq.geojson",
-      "GOA SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GOA/GOA Sub District Hq.geojson",
-      "GOA_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GOA/GOA_ASSEMBLY.geojson",
-      "GOA_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GOA/GOA_DISTRICTS.geojson",
-      "GOA_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GOA/GOA_STATE.geojson",
-      "GOA_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GOA/GOA_SUBDISTRICTS.geojson",
-      "GOA_VILLAGES": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GOA/GOA_VILLAGES.geojson",
-      "GOA_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GOA/GOA_parliament.geojson"
-    },
-    "GUJARAT": {
-      "GUJARAT DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GUJARAT/GUJARAT District Hq.geojson",
-      "GUJARAT SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GUJARAT/GUJARAT Sub District Hq.geojson",
-      "GUJARAT_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GUJARAT/GUJARAT_ASSEMBLY.geojson",
-      "GUJARAT_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GUJARAT/GUJARAT_DISTRICTS.geojson",
-      "GUJARAT_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GUJARAT/GUJARAT_STATE.geojson",
-      "GUJARAT_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GUJARAT/GUJARAT_SUBDISTRICTS.geojson",
-      "GUJARAT_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GUJARAT/GUJARAT_parliament.geojson"
-    },
-    "HARYANA": {
-      "HARYANA DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HARYANA/HARYANA District Hq.geojson",
-      "HARYANA SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HARYANA/HARYANA Sub District Hq.geojson",
-      "HARYANA_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HARYANA/HARYANA_ASSEMBLY.geojson",
-      "HARYANA_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HARYANA/HARYANA_DISTRICTS.geojson",
-      "HARYANA_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HARYANA/HARYANA_STATE.geojson",
-      "HARYANA_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HARYANA/HARYANA_SUBDISTRICTS.geojson",
-      "HARYANA_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HARYANA/HARYANA_parliament.geojson"
-    },
-    "HIMACHAL PRADESH": {
-      "HIMACHAL PRADESH DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HIMACHAL PRADESH/HIMACHAL PRADESH District Hq.geojson",
-      "HIMACHAL PRADESH SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HIMACHAL PRADESH/HIMACHAL PRADESH Sub District Hq.geojson",
-      "HIMACHAL PRADESH_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HIMACHAL PRADESH/HIMACHAL PRADESH_ASSEMBLY.geojson",
-      "HIMACHAL PRADESH_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HIMACHAL PRADESH/HIMACHAL PRADESH_DISTRICTS.geojson",
-      "HIMACHAL PRADESH_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HIMACHAL PRADESH/HIMACHAL PRADESH_STATE.geojson",
-      "HIMACHAL PRADESH_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HIMACHAL PRADESH/HIMACHAL PRADESH_SUBDISTRICTS.geojson",
-      "HIMACHAL PRADESH_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HIMACHAL PRADESH/HIMACHAL PRADESH_parliament.geojson"
-    },
-    "JAMMU & KASHMIR": {
-      "JAMMU & KASHMIR DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JAMMU & KASHMIR/JAMMU & KASHMIR District Hq.geojson",
-      "JAMMU & KASHMIR SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JAMMU & KASHMIR/JAMMU & KASHMIR Sub District Hq.geojson",
-      "JAMMU & KASHMIR_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JAMMU & KASHMIR/JAMMU & KASHMIR_ASSEMBLY.geojson",
-      "JAMMU & KASHMIR_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JAMMU & KASHMIR/JAMMU & KASHMIR_DISTRICTS.geojson",
-      "JAMMU & KASHMIR_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JAMMU & KASHMIR/JAMMU & KASHMIR_STATE.geojson",
-      "JAMMU & KASHMIR_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JAMMU & KASHMIR/JAMMU & KASHMIR_SUBDISTRICTS.geojson",
-      "JAMMU & KASHMIR_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JAMMU & KASHMIR/JAMMU & KASHMIR_parliament.geojson"
-    },
-    "JHARKHAND": {
-      "JHARKHAND DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JHARKHAND/JHARKHAND District Hq.geojson",
-      "JHARKHAND SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JHARKHAND/JHARKHAND Sub District Hq.geojson",
-      "JHARKHAND_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JHARKHAND/JHARKHAND_ASSEMBLY.geojson",
-      "JHARKHAND_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JHARKHAND/JHARKHAND_DISTRICTS.geojson",
-      "JHARKHAND_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JHARKHAND/JHARKHAND_STATE.geojson",
-      "JHARKHAND_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JHARKHAND/JHARKHAND_SUBDISTRICTS.geojson",
-      "JHARKHAND_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JHARKHAND/JHARKHAND_parliament.geojson"
-    },
-    "KARNATAKA": {
-      "KARNATAKA DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KARNATAKA/KARNATAKA District Hq.geojson",
-      "KARNATAKA SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KARNATAKA/KARNATAKA Sub District Hq.geojson",
-      "KARNATAKA_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KARNATAKA/KARNATAKA_ASSEMBLY.geojson",
-      "KARNATAKA_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KARNATAKA/KARNATAKA_DISTRICTS.geojson",
-      "KARNATAKA_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KARNATAKA/KARNATAKA_STATE.geojson",
-      "KARNATAKA_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KARNATAKA/KARNATAKA_SUBDISTRICTS.geojson",
-      "KARNATAKA_VILLAGES": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KARNATAKA/KARNATAKA_VILLAGES.geojson",
-      "KARNATAKA_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KARNATAKA/KARNATAKA_parliament.geojson"
-    },
-    "KERALA": {
-      "KERALA DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KERALA/KERALA District Hq.geojson",
-      "KERALA SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KERALA/KERALA Sub District Hq.geojson",
-      "KERALA_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KERALA/KERALA_ASSEMBLY.geojson",
-      "KERALA_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KERALA/KERALA_DISTRICTS.geojson",
-      "KERALA_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KERALA/KERALA_STATE.geojson",
-      "KERALA_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KERALA/KERALA_SUBDISTRICTS.geojson",
-      "KERALA_VILLAGES": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KERALA/KERALA_VILLAGES.geojson",
-      "KERALA_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KERALA/KERALA_parliament.geojson"
-    },
-    "LADAKH": {
-      "LADAKH SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/LADAKH/LADAKH Sub District Hq.geojson",
-      "LADAKH_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/LADAKH/LADAKH_DISTRICTS.geojson",
-      "LADAKH_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/LADAKH/LADAKH_STATE.geojson",
-      "LADAKH_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/LADAKH/LADAKH_SUBDISTRICTS.geojson"
-    },
-    "LAKSHADWEEP": {
-      "LAKSHADWEEP DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/LAKSHADWEEP/LAKSHADWEEP District Hq.geojson",
-      "LAKSHADWEEP SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/LAKSHADWEEP/LAKSHADWEEP Sub District Hq.geojson",
-      "LAKSHADWEEP_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/LAKSHADWEEP/LAKSHADWEEP_DISTRICTS.geojson",
-      "LAKSHADWEEP_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/LAKSHADWEEP/LAKSHADWEEP_STATE.geojson",
-      "LAKSHADWEEP_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/LAKSHADWEEP/LAKSHADWEEP_SUBDISTRICTS.geojson",
-      "LAKSHADWEEP_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/LAKSHADWEEP/LAKSHADWEEP_parliament.geojson"
-    },
-    "MADHYA PRADESH": {
-      "MADHYA PRADESH DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MADHYA PRADESH/MADHYA PRADESH District Hq.geojson",
-      "MADHYA PRADESH SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MADHYA PRADESH/MADHYA PRADESH Sub District Hq.geojson",
-      "MADHYA PRADESH_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MADHYA PRADESH/MADHYA PRADESH_ASSEMBLY.geojson",
-      "MADHYA PRADESH_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MADHYA PRADESH/MADHYA PRADESH_DISTRICTS.geojson",
-      "MADHYA PRADESH_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MADHYA PRADESH/MADHYA PRADESH_STATE.geojson",
-      "MADHYA PRADESH_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MADHYA PRADESH/MADHYA PRADESH_SUBDISTRICTS.geojson",
-      "MADHYA PRADESH_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MADHYA PRADESH/MADHYA PRADESH_parliament.geojson"
-    },
-    "MAHARASHTRA": {
-      "MAHARASHTRA DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MAHARASHTRA/MAHARASHTRA District Hq.geojson",
-      "MAHARASHTRA SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MAHARASHTRA/MAHARASHTRA Sub District Hq.geojson",
-      "MAHARASHTRA_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MAHARASHTRA/MAHARASHTRA_ASSEMBLY.geojson",
-      "MAHARASHTRA_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MAHARASHTRA/MAHARASHTRA_DISTRICTS.geojson",
-      "MAHARASHTRA_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MAHARASHTRA/MAHARASHTRA_STATE.geojson",
-      "MAHARASHTRA_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MAHARASHTRA/MAHARASHTRA_SUBDISTRICTS.geojson",
-      "MAHARASHTRA_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MAHARASHTRA/MAHARASHTRA_parliament.geojson"
-    },
-    "MANIPUR": {
-      "MANIPUR DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MANIPUR/MANIPUR District Hq.geojson",
-      "MANIPUR SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MANIPUR/MANIPUR Sub District Hq.geojson",
-      "MANIPUR_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MANIPUR/MANIPUR_ASSEMBLY.geojson",
-      "MANIPUR_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MANIPUR/MANIPUR_DISTRICTS.geojson",
-      "MANIPUR_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MANIPUR/MANIPUR_STATE.geojson",
-      "MANIPUR_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MANIPUR/MANIPUR_SUBDISTRICTS.geojson",
-      "MANIPUR_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MANIPUR/MANIPUR_parliament.geojson"
-    },
-    "MEGHALAYA": {
-      "MEGHALAYA DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MEGHALAYA/MEGHALAYA District Hq.geojson",
-      "MEGHALAYA SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MEGHALAYA/MEGHALAYA Sub District Hq.geojson",
-      "MEGHALAYA_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MEGHALAYA/MEGHALAYA_ASSEMBLY.geojson",
-      "MEGHALAYA_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MEGHALAYA/MEGHALAYA_DISTRICTS.geojson",
-      "MEGHALAYA_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MEGHALAYA/MEGHALAYA_STATE.geojson",
-      "MEGHALAYA_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MEGHALAYA/MEGHALAYA_SUBDISTRICTS.geojson",
-      "MEGHALAYA_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MEGHALAYA/MEGHALAYA_parliament.geojson"
-    },
-    "MIZORAM": {
-      "MIZORAM DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MIZORAM/MIZORAM District Hq.geojson",
-      "MIZORAM SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MIZORAM/MIZORAM Sub District Hq.geojson",
-      "MIZORAM_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MIZORAM/MIZORAM_ASSEMBLY.geojson",
-      "MIZORAM_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MIZORAM/MIZORAM_DISTRICTS.geojson",
-      "MIZORAM_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MIZORAM/MIZORAM_STATE.geojson",
-      "MIZORAM_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MIZORAM/MIZORAM_SUBDISTRICTS.geojson",
-      "MIZORAM_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MIZORAM/MIZORAM_parliament.geojson"
-    },
-    "NAGALAND": {
-      "NAGALAND DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/NAGALAND/NAGALAND District Hq.geojson",
-      "NAGALAND SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/NAGALAND/NAGALAND Sub District Hq.geojson",
-      "NAGALAND_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/NAGALAND/NAGALAND_ASSEMBLY.geojson",
-      "NAGALAND_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/NAGALAND/NAGALAND_DISTRICTS.geojson",
-      "NAGALAND_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/NAGALAND/NAGALAND_STATE.geojson",
-      "NAGALAND_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/NAGALAND/NAGALAND_SUBDISTRICTS.geojson",
-      "NAGALAND_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/NAGALAND/NAGALAND_parliament.geojson"
-    },
-    "ORISSA": {
-      "ODISHA SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ORISSA/ODISHA Sub District Hq.geojson",
-      "ODISHA_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ORISSA/ODISHA_DISTRICTS.geojson",
-      "ODISHA_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ORISSA/ODISHA_STATE.geojson",
-      "ODISHA_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ORISSA/ODISHA_SUBDISTRICTS.geojson",
-      "ORISSA DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ORISSA/ORISSA District Hq.geojson",
-      "ORISSA_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ORISSA/ORISSA_ASSEMBLY.geojson",
-      "ORISSA_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ORISSA/ORISSA_parliament.geojson"
-    },
-    "PUDUCHERRY": {
-      "PONDICHERRY DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUDUCHERRY/PONDICHERRY District Hq.geojson",
-      "PUDUCHERRY SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUDUCHERRY/PUDUCHERRY Sub District Hq.geojson",
-      "PUDUCHERRY_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUDUCHERRY/PUDUCHERRY_ASSEMBLY.geojson",
-      "PUDUCHERRY_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUDUCHERRY/PUDUCHERRY_DISTRICTS.geojson",
-      "PUDUCHERRY_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUDUCHERRY/PUDUCHERRY_STATE.geojson",
-      "PUDUCHERRY_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUDUCHERRY/PUDUCHERRY_SUBDISTRICTS.geojson",
-      "PUDUCHERRY_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUDUCHERRY/PUDUCHERRY_parliament.geojson"
-    },
-    "PUNJAB": {
-      "PUNJAB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUNJAB/PUNJAB District Hq.geojson",
-      "PUNJAB SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUNJAB/PUNJAB Sub District Hq.geojson",
-      "PUNJAB_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUNJAB/PUNJAB_ASSEMBLY.geojson",
-      "PUNJAB_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUNJAB/PUNJAB_DISTRICTS.geojson",
-      "PUNJAB_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUNJAB/PUNJAB_STATE.geojson",
-      "PUNJAB_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUNJAB/PUNJAB_SUBDISTRICTS.geojson",
-      "PUNJAB_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUNJAB/PUNJAB_parliament.geojson"
-    },
-    "RAJASTHAN": {
-      "RAJASTHAN DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/RAJASTHAN/RAJASTHAN District Hq.geojson",
-      "RAJASTHAN SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/RAJASTHAN/RAJASTHAN Sub District Hq.geojson",
-      "RAJASTHAN_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/RAJASTHAN/RAJASTHAN_ASSEMBLY.geojson",
-      "RAJASTHAN_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/RAJASTHAN/RAJASTHAN_DISTRICTS.geojson",
-      "RAJASTHAN_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/RAJASTHAN/RAJASTHAN_STATE.geojson",
-      "RAJASTHAN_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/RAJASTHAN/RAJASTHAN_SUBDISTRICTS.geojson",
-      "RAJASTHAN_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/RAJASTHAN/RAJASTHAN_parliament.geojson"
-    },
-    "SIKKIM": {
-      "SIKKIM DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/SIKKIM/SIKKIM District Hq.geojson",
-      "SIKKIM SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/SIKKIM/SIKKIM Sub District Hq.geojson",
-      "SIKKIM_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/SIKKIM/SIKKIM_ASSEMBLY.geojson",
-      "SIKKIM_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/SIKKIM/SIKKIM_DISTRICTS.geojson",
-      "SIKKIM_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/SIKKIM/SIKKIM_STATE.geojson",
-      "SIKKIM_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/SIKKIM/SIKKIM_SUBDISTRICTS.geojson",
-      "SIKKIM_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/SIKKIM/SIKKIM_parliament.geojson"
-    },
-    "TAMIL NADU": {
-      "TAMIL NADU DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TAMIL NADU/TAMIL NADU District Hq.geojson",
-      "TAMIL NADU SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TAMIL NADU/TAMIL NADU Sub District Hq.geojson",
-      "TAMIL NADU VILLAGES": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TAMIL NADU/TAMIL NADU VILLAGES.geojson",
-      "TAMIL NADU_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TAMIL NADU/TAMIL NADU_ASSEMBLY.geojson",
-      "TAMIL NADU_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TAMIL NADU/TAMIL NADU_DISTRICTS.geojson",
-      "TAMIL NADU_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TAMIL NADU/TAMIL NADU_STATE.geojson",
-      "TAMIL NADU_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TAMIL NADU/TAMIL NADU_parliament.geojson",
-      "TAMILNADU_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TAMIL NADU/TAMILNADU_SUBDISTRICTS.geojson"
-    },
-"TELANGANA": {
-  "TELANGANA DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TELANGANA/TELANGANA%20District%20Hq.geojson",
-  "TELANGANA SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TELANGANA/TELANGANA%20Sub%20District%20Hq.geojson",
-  "TELANGANA_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TELANGANA/TELANGANA_ASSEMBLY.geojson",
-  "TELANGANA_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TELANGANA/TELANGANA_DISTRICTS.geojson",
-  "TELANGANA_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TELANGANA/TELANGANA_STATE.geojson",
-  "TELANGANA_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TELANGANA/TELANGANA_SUBDISTRICTS.geojson",
-  "TELANGANA_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TELANGANA/TELANGANA_parliament.geojson",
-  "GHMC_AREA": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TELANGANA/ghmc-area.geojson",
-  "GHMC_WARDS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TELANGANA/ghmc-wards.geojson",
-  "GHMC_ZONES": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TELANGANA/ghmc-zones.geojson"
-},
-    "TRIPURA": {
-      "TRIPURA DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TRIPURA/TRIPURA District Hq.geojson",
-      "TRIPURA SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TRIPURA/TRIPURA Sub District Hq.geojson",
-      "TRIPURA_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TRIPURA/TRIPURA_ASSEMBLY.geojson",
-      "TRIPURA_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TRIPURA/TRIPURA_DISTRICTS.geojson",
-      "TRIPURA_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TRIPURA/TRIPURA_STATE.geojson",
-      "TRIPURA_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TRIPURA/TRIPURA_SUBDISTRICTS.geojson",
-      "TRIPURA_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TRIPURA/TRIPURA_parliament.geojson"
-    },
-    "UTTAR PRADESH": {
-      "UTTAR PRADESH DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTAR PRADESH/UTTAR PRADESH District Hq.geojson",
-      "UTTAR PRADESH SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTAR PRADESH/UTTAR PRADESH Sub District Hq.geojson",
-      "UTTAR PRADESH_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTAR PRADESH/UTTAR PRADESH_ASSEMBLY.geojson",
-      "UTTAR PRADESH_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTAR PRADESH/UTTAR PRADESH_DISTRICTS.geojson",
-      "UTTAR PRADESH_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTAR PRADESH/UTTAR PRADESH_STATE.geojson",
-      "UTTAR PRADESH_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTAR PRADESH/UTTAR PRADESH_SUBDISTRICTS.geojson",
-      "UTTAR PRADESH_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTAR PRADESH/UTTAR PRADESH_parliament.geojson"
-    },
-    "UTTARAKHAND": {
-      "UTTARAKHAND SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTARAKHAND/UTTARAKHAND Sub District Hq.geojson",
-      "UTTARAKHAND_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTARAKHAND/UTTARAKHAND_DISTRICTS.geojson",
-      "UTTARAKHAND_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTARAKHAND/UTTARAKHAND_STATE.geojson",
-      "UTTARAKHAND_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTARAKHAND/UTTARAKHAND_SUBDISTRICTS.geojson",
-      "UTTARAKHAND_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTARAKHAND/UTTARAKHAND_parliament.geojson",
-      "UTTARANCHAL DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTARAKHAND/UTTARANCHAL District Hq.geojson",
-      "UTTARKHAND_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTARAKHAND/UTTARKHAND_ASSEMBLY.geojson"
-    },
-    "WEST BENGAL": {
-      "WEST BENGAL DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/WEST BENGAL/WEST BENGAL District Hq.geojson",
-      "WEST BENGAL SUB DISTRICT HQ": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/WEST BENGAL/WEST BENGAL Sub District Hq.geojson",
-      "WEST BENGAL_ASSEMBLY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/WEST BENGAL/WEST BENGAL_ASSEMBLY.geojson",
-      "WEST BENGAL_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/WEST BENGAL/WEST BENGAL_DISTRICTS.geojson",
-      "WEST BENGAL_STATE": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/WEST BENGAL/WEST BENGAL_STATE.geojson",
-      "WEST BENGAL_SUBDISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/WEST BENGAL/WEST BENGAL_SUBDISTRICTS.geojson",
-      "WEST BENGAL_PARLIAMENT": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/WEST BENGAL/WEST BENGAL_parliament.geojson"
-    }
+  "INDIA_INDIA_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIA_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "INDIA_INDIAN_SUB_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIAN_SUB_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "INDIA_INDIAN_RAILWAYS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIAN_RAILWAYS.geojson",
+    "version": "v1.0"
+  },
+  "INDIA_INDIA_ENERGY_PLANTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIA_ENERGY_PLANTS.geojson",
+    "version": "v1.0"
+  },
+  "INDIA_INDIA_NATIONAL_HIGHWAY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIA_NATIONAL_HIGHWAY.geojson",
+    "version": "v1.0"
+  },
+  "INDIA_INDIA_POLICE_STATIONS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIA_POLICE_STATIONS.geojson",
+    "version": "v1.0"
+  },
+  "INDIA_INDIAN_RIVERS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/Indian_Rivers.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ANDAMAN & NICOBAR_ANDAMAN & NICOBAR DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDAMAN & NICOBAR/ANDAMAN & NICOBAR District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ANDAMAN & NICOBAR_ANDAMAN & NICOBAR SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDAMAN & NICOBAR/ANDAMAN & NICOBAR Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ANDAMAN & NICOBAR_ANDAMAN & NICOBAR_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDAMAN & NICOBAR/ANDAMAN & NICOBAR_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ANDAMAN & NICOBAR_ANDAMAN & NICOBAR_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDAMAN & NICOBAR/ANDAMAN & NICOBAR_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ANDAMAN & NICOBAR_ANDAMAN & NICOBAR_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDAMAN & NICOBAR/ANDAMAN & NICOBAR_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ANDAMAN & NICOBAR_ANDAMAN & NICOBAR_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDAMAN & NICOBAR/ANDAMAN & NICOBAR_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ANDHRA PRADESH_ANDHRA PRADESH DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDHRA PRADESH/ANDHRA PRADESH District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ANDHRA PRADESH_ANDHRA PRADESH SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDHRA PRADESH/ANDHRA PRADESH Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ANDHRA PRADESH_ANDHRA PRADESH_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDHRA PRADESH/ANDHRA PRADESH_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ANDHRA PRADESH_ANDHRA PRADESH_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDHRA PRADESH/ANDHRA PRADESH_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ANDHRA PRADESH_ANDHRA PRADESH_NEW_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDHRA PRADESH/ANDHRA PRADESH_NEW_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ANDHRA PRADESH_ANDHRA PRADESH_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDHRA PRADESH/ANDHRA PRADESH_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ANDHRA PRADESH_ANDHRA PRADESH_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDHRA PRADESH/ANDHRA PRADESH_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ANDHRA PRADESH_ANDHRA PRADESH_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDHRA PRADESH/ANDHRA PRADESH_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ARUNACHAL PRADESH_ARUNACHAL PRADESH DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ARUNACHAL PRADESH/ARUNACHAL PRADESH District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ARUNACHAL PRADESH_ARUNACHAL PRADESH SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ARUNACHAL PRADESH/ARUNACHAL PRADESH Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ARUNACHAL PRADESH_ARUNACHAL PRADESH_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ARUNACHAL PRADESH/ARUNACHAL PRADESH_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ARUNACHAL PRADESH_ARUNACHAL PRADESH_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ARUNACHAL PRADESH/ARUNACHAL PRADESH_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ARUNACHAL PRADESH_ARUNACHAL PRADESH_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ARUNACHAL PRADESH/ARUNACHAL PRADESH_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ARUNACHAL PRADESH_ARUNACHAL PRADESH_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ARUNACHAL PRADESH/ARUNACHAL PRADESH_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ARUNACHAL PRADESH_ARUNACHAL PRADESH_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ARUNACHAL PRADESH/ARUNACHAL PRADESH_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ASSAM_ASSAM DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ASSAM/ASSAM District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ASSAM_ASSAM SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ASSAM/ASSAM Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ASSAM_ASSAM_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ASSAM/ASSAM_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ASSAM_ASSAM_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ASSAM/ASSAM_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ASSAM_ASSAM_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ASSAM/ASSAM_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ASSAM_ASSAM_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ASSAM/ASSAM_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ASSAM_ASSAM_VILLAGES": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ASSAM/ASSAM_VILLAGES.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ASSAM_ASSAM_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ASSAM/ASSAM_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_BIHAR_BIHAR DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/BIHAR/BIHAR District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_BIHAR_BIHAR SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/BIHAR/BIHAR Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_BIHAR_BIHAR_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/BIHAR/BIHAR_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_BIHAR_BIHAR_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/BIHAR/BIHAR_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_BIHAR_BIHAR_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/BIHAR/BIHAR_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_BIHAR_BIHAR_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/BIHAR/BIHAR_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_BIHAR_BIHAR_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/BIHAR/BIHAR_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_CHANDIGARH_CHANDIGARH DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/CHANDIGARH/CHANDIGARH District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_CHANDIGARH_CHANDIGARH SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/CHANDIGARH/CHANDIGARH Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_CHANDIGARH_CHANDIGARH_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/CHANDIGARH/CHANDIGARH_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_CHANDIGARH_CHANDIGARH_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/CHANDIGARH/CHANDIGARH_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_CHANDIGARH_CHANDIGARH_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/CHANDIGARH/CHANDIGARH_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_CHANDIGARH_CHANDIGARH_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/CHANDIGARH/CHANDIGARH_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_CHHATTISGARH_CHATTISGARH_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/CHHATTISGARH/CHATTISGARH_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_CHHATTISGARH_CHHATTISGARH DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/CHHATTISGARH/CHHATTISGARH District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_CHHATTISGARH_CHHATTISGARH SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/CHHATTISGARH/CHHATTISGARH Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_CHHATTISGARH_CHHATTISGARH_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/CHHATTISGARH/CHHATTISGARH_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_CHHATTISGARH_CHHATTISGARH_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/CHHATTISGARH/CHHATTISGARH_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_CHHATTISGARH_CHHATTISGARH_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/CHHATTISGARH/CHHATTISGARH_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_CHHATTISGARH_CHHATTISGARH_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/CHHATTISGARH/CHHATTISGARH_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_DADRA & NAGAR HAVELI_DADAR & NAGAR HAVELI_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DADRA & NAGAR HAVELI/DADAR & NAGAR HAVELI_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_DADRA & NAGAR HAVELI_DADRA & NAGAR HAVE DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DADRA & NAGAR HAVELI/DADRA & NAGAR HAVE District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_DADRA & NAGAR HAVELI_DADRA & NAGAR HAVE SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DADRA & NAGAR HAVELI/DADRA & NAGAR HAVE Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_DADRA & NAGAR HAVELI_DADRA & NAGAR HAVELI_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DADRA & NAGAR HAVELI/DADRA & NAGAR HAVELI_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_DADRA & NAGAR HAVELI_DADRA & NAGAR HAVELI_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DADRA & NAGAR HAVELI/DADRA & NAGAR HAVELI_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_DADRA & NAGAR HAVELI_DADRA & NAGAR HAVE_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DADRA & NAGAR HAVELI/DADRA & NAGAR HAVE_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_DAMAN & DIU_DAMAN & DIU DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DAMAN & DIU/DAMAN & DIU District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_DAMAN & DIU_DAMAN & DIU SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DAMAN & DIU/DAMAN & DIU Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_DAMAN & DIU_DAMAN & DIU_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DAMAN & DIU/DAMAN & DIU_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_DAMAN & DIU_DAMAN & DIU_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DAMAN & DIU/DAMAN & DIU_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_DAMAN & DIU_DAMAN & DIU_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DAMAN & DIU/DAMAN & DIU_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_DAMAN & DIU_DAMAN & DIU_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DAMAN & DIU/DAMAN & DIU_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_DELHI_DELHI DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DELHI/DELHI District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_DELHI_DELHI SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DELHI/DELHI Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_DELHI_DELHI_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DELHI/DELHI_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_DELHI_DELHI_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DELHI/DELHI_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_DELHI_DELHI_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DELHI/DELHI_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_DELHI_DELHI_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DELHI/DELHI_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_DELHI_DELHI_VILLAGES": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DELHI/DELHI_VILLAGES.geojson",
+    "version": "v1.0"
+  },
+  "STATES_DELHI_DELHI_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/DELHI/DELHI_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_GOA_GOA DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GOA/GOA District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_GOA_GOA SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GOA/GOA Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_GOA_GOA_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GOA/GOA_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_GOA_GOA_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GOA/GOA_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_GOA_GOA_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GOA/GOA_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_GOA_GOA_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GOA/GOA_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_GOA_GOA_VILLAGES": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GOA/GOA_VILLAGES.geojson",
+    "version": "v1.0"
+  },
+  "STATES_GOA_GOA_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GOA/GOA_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_GUJARAT_GUJARAT DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GUJARAT/GUJARAT District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_GUJARAT_GUJARAT SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GUJARAT/GUJARAT Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_GUJARAT_GUJARAT_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GUJARAT/GUJARAT_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_GUJARAT_GUJARAT_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GUJARAT/GUJARAT_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_GUJARAT_GUJARAT_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GUJARAT/GUJARAT_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_GUJARAT_GUJARAT_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GUJARAT/GUJARAT_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_GUJARAT_GUJARAT_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/GUJARAT/GUJARAT_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_HARYANA_HARYANA DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HARYANA/HARYANA District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_HARYANA_HARYANA SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HARYANA/HARYANA Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_HARYANA_HARYANA_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HARYANA/HARYANA_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_HARYANA_HARYANA_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HARYANA/HARYANA_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_HARYANA_HARYANA_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HARYANA/HARYANA_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_HARYANA_HARYANA_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HARYANA/HARYANA_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_HARYANA_HARYANA_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HARYANA/HARYANA_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_HIMACHAL PRADESH_HIMACHAL PRADESH DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HIMACHAL PRADESH/HIMACHAL PRADESH District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_HIMACHAL PRADESH_HIMACHAL PRADESH SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HIMACHAL PRADESH/HIMACHAL PRADESH Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_HIMACHAL PRADESH_HIMACHAL PRADESH_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HIMACHAL PRADESH/HIMACHAL PRADESH_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_HIMACHAL PRADESH_HIMACHAL PRADESH_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HIMACHAL PRADESH/HIMACHAL PRADESH_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_HIMACHAL PRADESH_HIMACHAL PRADESH_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HIMACHAL PRADESH/HIMACHAL PRADESH_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_HIMACHAL PRADESH_HIMACHAL PRADESH_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HIMACHAL PRADESH/HIMACHAL PRADESH_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_HIMACHAL PRADESH_HIMACHAL PRADESH_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/HIMACHAL PRADESH/HIMACHAL PRADESH_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_JAMMU & KASHMIR_JAMMU & KASHMIR DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JAMMU & KASHMIR/JAMMU & KASHMIR District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_JAMMU & KASHMIR_JAMMU & KASHMIR SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JAMMU & KASHMIR/JAMMU & KASHMIR Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_JAMMU & KASHMIR_JAMMU & KASHMIR_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JAMMU & KASHMIR/JAMMU & KASHMIR_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_JAMMU & KASHMIR_JAMMU & KASHMIR_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JAMMU & KASHMIR/JAMMU & KASHMIR_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_JAMMU & KASHMIR_JAMMU & KASHMIR_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JAMMU & KASHMIR/JAMMU & KASHMIR_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_JAMMU & KASHMIR_JAMMU & KASHMIR_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JAMMU & KASHMIR/JAMMU & KASHMIR_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_JAMMU & KASHMIR_JAMMU & KASHMIR_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JAMMU & KASHMIR/JAMMU & KASHMIR_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_JHARKHAND_JHARKHAND DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JHARKHAND/JHARKHAND District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_JHARKHAND_JHARKHAND SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JHARKHAND/JHARKHAND Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_JHARKHAND_JHARKHAND_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JHARKHAND/JHARKHAND_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_JHARKHAND_JHARKHAND_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JHARKHAND/JHARKHAND_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_JHARKHAND_JHARKHAND_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JHARKHAND/JHARKHAND_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_JHARKHAND_JHARKHAND_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JHARKHAND/JHARKHAND_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_JHARKHAND_JHARKHAND_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/JHARKHAND/JHARKHAND_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_KARNATAKA_KARNATAKA DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KARNATAKA/KARNATAKA District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_KARNATAKA_KARNATAKA SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KARNATAKA/KARNATAKA Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_KARNATAKA_KARNATAKA_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KARNATAKA/KARNATAKA_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_KARNATAKA_KARNATAKA_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KARNATAKA/KARNATAKA_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_KARNATAKA_KARNATAKA_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KARNATAKA/KARNATAKA_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_KARNATAKA_KARNATAKA_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KARNATAKA/KARNATAKA_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_KARNATAKA_KARNATAKA_VILLAGES": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KARNATAKA/KARNATAKA_VILLAGES.geojson",
+    "version": "v1.0"
+  },
+  "STATES_KARNATAKA_KARNATAKA_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KARNATAKA/KARNATAKA_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_KERALA_KERALA DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KERALA/KERALA District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_KERALA_KERALA SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KERALA/KERALA Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_KERALA_KERALA_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KERALA/KERALA_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_KERALA_KERALA_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KERALA/KERALA_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_KERALA_KERALA_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KERALA/KERALA_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_KERALA_KERALA_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KERALA/KERALA_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_KERALA_KERALA_VILLAGES": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KERALA/KERALA_VILLAGES.geojson",
+    "version": "v1.0"
+  },
+  "STATES_KERALA_KERALA_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KERALA/KERALA_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_LADAKH_LADAKH SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/LADAKH/LADAKH Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_LADAKH_LADAKH_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/LADAKH/LADAKH_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_LADAKH_LADAKH_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/LADAKH/LADAKH_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_LADAKH_LADAKH_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/LADAKH/LADAKH_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_LAKSHADWEEP_LAKSHADWEEP DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/LAKSHADWEEP/LAKSHADWEEP District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_LAKSHADWEEP_LAKSHADWEEP SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/LAKSHADWEEP/LAKSHADWEEP Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_LAKSHADWEEP_LAKSHADWEEP_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/LAKSHADWEEP/LAKSHADWEEP_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_LAKSHADWEEP_LAKSHADWEEP_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/LAKSHADWEEP/LAKSHADWEEP_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_LAKSHADWEEP_LAKSHADWEEP_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/LAKSHADWEEP/LAKSHADWEEP_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_LAKSHADWEEP_LAKSHADWEEP_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/LAKSHADWEEP/LAKSHADWEEP_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MADHYA PRADESH_MADHYA PRADESH DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MADHYA PRADESH/MADHYA PRADESH District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MADHYA PRADESH_MADHYA PRADESH SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MADHYA PRADESH/MADHYA PRADESH Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MADHYA PRADESH_MADHYA PRADESH_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MADHYA PRADESH/MADHYA PRADESH_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MADHYA PRADESH_MADHYA PRADESH_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MADHYA PRADESH/MADHYA PRADESH_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MADHYA PRADESH_MADHYA PRADESH_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MADHYA PRADESH/MADHYA PRADESH_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MADHYA PRADESH_MADHYA PRADESH_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MADHYA PRADESH/MADHYA PRADESH_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MADHYA PRADESH_MADHYA PRADESH_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MADHYA PRADESH/MADHYA PRADESH_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MAHARASHTRA_MAHARASHTRA DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MAHARASHTRA/MAHARASHTRA District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MAHARASHTRA_MAHARASHTRA SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MAHARASHTRA/MAHARASHTRA Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MAHARASHTRA_MAHARASHTRA_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MAHARASHTRA/MAHARASHTRA_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MAHARASHTRA_MAHARASHTRA_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MAHARASHTRA/MAHARASHTRA_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MAHARASHTRA_MAHARASHTRA_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MAHARASHTRA/MAHARASHTRA_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MAHARASHTRA_MAHARASHTRA_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MAHARASHTRA/MAHARASHTRA_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MAHARASHTRA_MAHARASHTRA_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MAHARASHTRA/MAHARASHTRA_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MANIPUR_MANIPUR DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MANIPUR/MANIPUR District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MANIPUR_MANIPUR SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MANIPUR/MANIPUR Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MANIPUR_MANIPUR_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MANIPUR/MANIPUR_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MANIPUR_MANIPUR_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MANIPUR/MANIPUR_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MANIPUR_MANIPUR_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MANIPUR/MANIPUR_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MANIPUR_MANIPUR_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MANIPUR/MANIPUR_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MANIPUR_MANIPUR_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MANIPUR/MANIPUR_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MEGHALAYA_MEGHALAYA DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MEGHALAYA/MEGHALAYA District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MEGHALAYA_MEGHALAYA SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MEGHALAYA/MEGHALAYA Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MEGHALAYA_MEGHALAYA_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MEGHALAYA/MEGHALAYA_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MEGHALAYA_MEGHALAYA_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MEGHALAYA/MEGHALAYA_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MEGHALAYA_MEGHALAYA_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MEGHALAYA/MEGHALAYA_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MEGHALAYA_MEGHALAYA_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MEGHALAYA/MEGHALAYA_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MEGHALAYA_MEGHALAYA_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MEGHALAYA/MEGHALAYA_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MIZORAM_MIZORAM DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MIZORAM/MIZORAM District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MIZORAM_MIZORAM SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MIZORAM/MIZORAM Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MIZORAM_MIZORAM_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MIZORAM/MIZORAM_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MIZORAM_MIZORAM_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MIZORAM/MIZORAM_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MIZORAM_MIZORAM_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MIZORAM/MIZORAM_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MIZORAM_MIZORAM_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MIZORAM/MIZORAM_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_MIZORAM_MIZORAM_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/MIZORAM/MIZORAM_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_NAGALAND_NAGALAND DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/NAGALAND/NAGALAND District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_NAGALAND_NAGALAND SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/NAGALAND/NAGALAND Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_NAGALAND_NAGALAND_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/NAGALAND/NAGALAND_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_NAGALAND_NAGALAND_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/NAGALAND/NAGALAND_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_NAGALAND_NAGALAND_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/NAGALAND/NAGALAND_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_NAGALAND_NAGALAND_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/NAGALAND/NAGALAND_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_NAGALAND_NAGALAND_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/NAGALAND/NAGALAND_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ORISSA_ODISHA SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ORISSA/ODISHA Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ORISSA_ODISHA_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ORISSA/ODISHA_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ORISSA_ODISHA_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ORISSA/ODISHA_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ORISSA_ODISHA_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ORISSA/ODISHA_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ORISSA_ORISSA DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ORISSA/ORISSA District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ORISSA_ORISSA_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ORISSA/ORISSA_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_ORISSA_ORISSA_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ORISSA/ORISSA_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_PUDUCHERRY_PONDICHERRY DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUDUCHERRY/PONDICHERRY District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_PUDUCHERRY_PUDUCHERRY SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUDUCHERRY/PUDUCHERRY Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_PUDUCHERRY_PUDUCHERRY_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUDUCHERRY/PUDUCHERRY_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_PUDUCHERRY_PUDUCHERRY_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUDUCHERRY/PUDUCHERRY_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_PUDUCHERRY_PUDUCHERRY_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUDUCHERRY/PUDUCHERRY_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_PUDUCHERRY_PUDUCHERRY_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUDUCHERRY/PUDUCHERRY_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_PUDUCHERRY_PUDUCHERRY_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUDUCHERRY/PUDUCHERRY_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_PUNJAB_PUNJAB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUNJAB/PUNJAB District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_PUNJAB_PUNJAB SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUNJAB/PUNJAB Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_PUNJAB_PUNJAB_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUNJAB/PUNJAB_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_PUNJAB_PUNJAB_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUNJAB/PUNJAB_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_PUNJAB_PUNJAB_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUNJAB/PUNJAB_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_PUNJAB_PUNJAB_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUNJAB/PUNJAB_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_PUNJAB_PUNJAB_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/PUNJAB/PUNJAB_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_RAJASTHAN_RAJASTHAN DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/RAJASTHAN/RAJASTHAN District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_RAJASTHAN_RAJASTHAN SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/RAJASTHAN/RAJASTHAN Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_RAJASTHAN_RAJASTHAN_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/RAJASTHAN/RAJASTHAN_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_RAJASTHAN_RAJASTHAN_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/RAJASTHAN/RAJASTHAN_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_RAJASTHAN_RAJASTHAN_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/RAJASTHAN/RAJASTHAN_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_RAJASTHAN_RAJASTHAN_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/RAJASTHAN/RAJASTHAN_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_RAJASTHAN_RAJASTHAN_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/RAJASTHAN/RAJASTHAN_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_SIKKIM_SIKKIM DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/SIKKIM/SIKKIM District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_SIKKIM_SIKKIM SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/SIKKIM/SIKKIM Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_SIKKIM_SIKKIM_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/SIKKIM/SIKKIM_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_SIKKIM_SIKKIM_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/SIKKIM/SIKKIM_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_SIKKIM_SIKKIM_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/SIKKIM/SIKKIM_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_SIKKIM_SIKKIM_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/SIKKIM/SIKKIM_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_SIKKIM_SIKKIM_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/SIKKIM/SIKKIM_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_TAMIL NADU_TAMIL NADU DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TAMIL NADU/TAMIL NADU District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_TAMIL NADU_TAMIL NADU SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TAMIL NADU/TAMIL NADU Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_TAMIL NADU_TAMIL NADU VILLAGES": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TAMIL NADU/TAMIL NADU VILLAGES.geojson",
+    "version": "v1.0"
+  },
+  "STATES_TAMIL NADU_TAMIL NADU_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TAMIL NADU/TAMIL NADU_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_TAMIL NADU_TAMIL NADU_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TAMIL NADU/TAMIL NADU_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_TAMIL NADU_TAMIL NADU_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TAMIL NADU/TAMIL NADU_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_TAMIL NADU_TAMIL NADU_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TAMIL NADU/TAMIL NADU_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_TAMIL NADU_TAMILNADU_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TAMIL NADU/TAMILNADU_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_TELANGANA_TELANGANA DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TELANGANA/TELANGANA%20District%20Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_TELANGANA_TELANGANA SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TELANGANA/TELANGANA%20Sub%20District%20Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_TELANGANA_TELANGANA_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TELANGANA/TELANGANA_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_TELANGANA_TELANGANA_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TELANGANA/TELANGANA_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_TELANGANA_TELANGANA_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TELANGANA/TELANGANA_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_TELANGANA_TELANGANA_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TELANGANA/TELANGANA_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_TELANGANA_TELANGANA_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TELANGANA/TELANGANA_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_TELANGANA_GHMC_AREA": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TELANGANA/ghmc-area.geojson",
+    "version": "v1.0"
+  },
+  "STATES_TELANGANA_GHMC_WARDS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TELANGANA/ghmc-wards.geojson",
+    "version": "v1.0"
+  },
+  "STATES_TELANGANA_GHMC_ZONES": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TELANGANA/ghmc-zones.geojson",
+    "version": "v1.0"
+  },
+  "STATES_TRIPURA_TRIPURA DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TRIPURA/TRIPURA District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_TRIPURA_TRIPURA SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TRIPURA/TRIPURA Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_TRIPURA_TRIPURA_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TRIPURA/TRIPURA_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_TRIPURA_TRIPURA_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TRIPURA/TRIPURA_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_TRIPURA_TRIPURA_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TRIPURA/TRIPURA_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_TRIPURA_TRIPURA_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TRIPURA/TRIPURA_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_TRIPURA_TRIPURA_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TRIPURA/TRIPURA_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_UTTAR PRADESH_UTTAR PRADESH DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTAR PRADESH/UTTAR PRADESH District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_UTTAR PRADESH_UTTAR PRADESH SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTAR PRADESH/UTTAR PRADESH Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_UTTAR PRADESH_UTTAR PRADESH_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTAR PRADESH/UTTAR PRADESH_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_UTTAR PRADESH_UTTAR PRADESH_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTAR PRADESH/UTTAR PRADESH_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_UTTAR PRADESH_UTTAR PRADESH_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTAR PRADESH/UTTAR PRADESH_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_UTTAR PRADESH_UTTAR PRADESH_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTAR PRADESH/UTTAR PRADESH_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_UTTAR PRADESH_UTTAR PRADESH_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTAR PRADESH/UTTAR PRADESH_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_UTTARAKHAND_UTTARAKHAND SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTARAKHAND/UTTARAKHAND Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_UTTARAKHAND_UTTARAKHAND_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTARAKHAND/UTTARAKHAND_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_UTTARAKHAND_UTTARAKHAND_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTARAKHAND/UTTARAKHAND_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_UTTARAKHAND_UTTARAKHAND_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTARAKHAND/UTTARAKHAND_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_UTTARAKHAND_UTTARAKHAND_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTARAKHAND/UTTARAKHAND_parliament.geojson",
+    "version": "v1.0"
+  },
+  "STATES_UTTARAKHAND_UTTARANCHAL DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTARAKHAND/UTTARANCHAL District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_UTTARAKHAND_UTTARKHAND_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/UTTARAKHAND/UTTARKHAND_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_WEST BENGAL_WEST BENGAL DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/WEST BENGAL/WEST BENGAL District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_WEST BENGAL_WEST BENGAL SUB DISTRICT HQ": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/WEST BENGAL/WEST BENGAL Sub District Hq.geojson",
+    "version": "v1.0"
+  },
+  "STATES_WEST BENGAL_WEST BENGAL_ASSEMBLY": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/WEST BENGAL/WEST BENGAL_ASSEMBLY.geojson",
+    "version": "v1.0"
+  },
+  "STATES_WEST BENGAL_WEST BENGAL_DISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/WEST BENGAL/WEST BENGAL_DISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_WEST BENGAL_WEST BENGAL_STATE": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/WEST BENGAL/WEST BENGAL_STATE.geojson",
+    "version": "v1.0"
+  },
+  "STATES_WEST BENGAL_WEST BENGAL_SUBDISTRICTS": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/WEST BENGAL/WEST BENGAL_SUBDISTRICTS.geojson",
+    "version": "v1.0"
+  },
+  "STATES_WEST BENGAL_WEST BENGAL_PARLIAMENT": {
+    "link": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/WEST BENGAL/WEST BENGAL_parliament.geojson",
+    "version": "v1.0"
   }
 }
