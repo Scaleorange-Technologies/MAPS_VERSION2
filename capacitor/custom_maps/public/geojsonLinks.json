@@ -20,6 +20,9 @@
     },
     "INDIA_POLICE_STATIONS": {
       "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIA_POLICE_STATIONS.geojson": "v1"
+    },
+    "INDIAN_RIVERS":{
+      "https://drive.google.com/uc?export=download&id=1lS0qhuZha7Vsfxf--agXr6MITtckEWLV":"v1"
     }
   },
   "STATES": {
