@@ -22,7 +22,7 @@
       "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIA_POLICE_STATIONS.geojson": "v1"
     },
     "INDIAN_RIVERS":{
-      "1QeNNJ_PrKze1JacypI26sfjRmK7eDoBF":"v1"
+      "https://raw.githubusercontent.com/Scaleorange-Technologies/MAPS_VERSION2/main/capacitor/custom_maps/public/geojson_indian_rivers_links.json":"v1"
     }
   },
   "STATES": {
