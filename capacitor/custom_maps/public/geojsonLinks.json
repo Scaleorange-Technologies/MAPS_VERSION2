@@ -21,8 +21,22 @@
     "INDIA_POLICE_STATIONS": {
       "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIA_POLICE_STATIONS.geojson": "v1"
     },
-    "INDIAN_RIVERS":{
-      "https://raw.githubusercontent.com/Scaleorange-Technologies/MAPS_VERSION2/main/capacitor/custom_maps/public/geojson_indian_rivers_links.json":"v1"
+    "INDIAN_RIVERS": {
+      "NORTH": {
+        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/rivers_north.geojson": "v1"
+      },
+      "SOUTH": {
+        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/rivers_south.geojson": "v1"
+      },
+      "EAST": {
+        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/rivers_east.geojson": "v1"
+      },
+      "WEST": {
+        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/rivers_west.geojson": "v1"
+      },
+      "CENTRAL": {
+        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/rivers_central.json": "v1"
+      }
     }
   },
   "STATES": {
