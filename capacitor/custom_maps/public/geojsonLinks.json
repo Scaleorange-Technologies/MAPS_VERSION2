@@ -23,7 +23,8 @@
     },
     "INDIAN_RIVERS": {
       "NORTH": {
-        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/rivers_north.geojson": "v1"
+        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/rivers_north_part_1.geojson": "v1",
+        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/rivers_north_part_2.geojson": "v1"      
       },
       "SOUTH": {
         "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/rivers_south.geojson": "v1"
@@ -35,8 +36,8 @@
         "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/rivers_west.geojson": "v1"
       },
       "CENTRAL": {
-        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/rivers_central.json": "v1"
-      }
+        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/rivers_central_part_1.geojson": "v1",
+        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/rivers_central_part_2.geojson": "v1"      }
     }
   },
   "STATES": {
