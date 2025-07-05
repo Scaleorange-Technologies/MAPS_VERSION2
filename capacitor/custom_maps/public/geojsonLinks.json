@@ -21,27 +21,45 @@
     "INDIA_POLICE_STATIONS": {
       "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIA_POLICE_STATIONS.geojson": "v1"
     },
-    "INDIAN_RIVERS": {
-      "NORTH": {
+    "INDIAN_WATERWAYS": {
+      "NORTHERN RIVERS": {
         "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/rivers_north_part_1.geojson": "v1"
       },
-      "NORTH-1" :{
+      "NORTHERN RIVERS-1" :{
         "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/rivers_north_part_2.geojson": "v1"
       },
-      "SOUTH": {
+      "SOUTHERN RIVERS": {
         "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/rivers_south.geojson": "v1"
       },
-      "EAST": {
+      "EASTERN RIVERS": {
         "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/rivers_east.geojson": "v1"
       },
-      "WEST": {
+      "WESTERN RIVERS": {
         "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/rivers_west.geojson": "v1"
       },
-      "CENTRAL": {
+      "CENTRAL RIVERS": {
         "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/rivers_central_part_1.geojson": "v1"
       },
-      "CENTRAL-1":{
+      "CENTRA RIVERS-1":{
         "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/rivers_central_part_2.geojson": "v1"
+      },
+      "CANALS":{
+        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/waterway_canal.geojson": "v1"
+      },
+      "BASINS": {
+        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/waterway_basin.geojson": "v1"
+      },
+      "CHECK_DAMS": {
+        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/waterway_check_dam.geojson": "v1"
+      },
+      "DAMS": {
+        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/waterway_dam.geojson": "v1"
+      },
+      "PONDS": {
+        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/waterway_pond.geojson": "v1"
+      },
+      "WATERFALLS": {
+        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/waterway_waterfall.geojson": "v1"
       }
     }
   },
