@@ -983,12 +983,12 @@
 
 import React from 'react';
 import GeojsonMap from './components/Maps/GeojsonMap'
-import Maps from './components/Maps/Maps';
 function App() {
   return (
     <div>
+    {/* <GeoJsonLinksProvider> */}
       <GeojsonMap />
-      {/* <Maps/> */}
+      {/* </GeoJsonLinksProvider> */}
     </div>
   );
 }
